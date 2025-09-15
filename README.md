@@ -1,5 +1,6 @@
 # FUTURE_DS_01
-FUTURE_DS_01 – Region-wise Sales Performance Dashboard
+
+**FUTURE_DS_01 – Region-wise Sales Performance Dashboard**
 
 **✅ Task 1 Submission for Future Interns** – Data Science & Analytics Internship
 
