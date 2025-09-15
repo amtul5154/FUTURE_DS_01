@@ -9,11 +9,11 @@
 **📅 Date:** September 2025
 
 
-**📊 Project Overview**
+**📊 Project Overview:**
 
 This project focuses on analyzing sales data from an e-commerce superstore to identify sales performance across different regions. The goal is to provide actionable insights about which regions generate the highest revenue and help guide business decisions on marketing and inventory distribution. The results are visualized interactively in a Power BI dashboard.
 
-**🧠 Skills Applied**
+**🧠 Skills Applied:**
 
 Data Cleaning & Preprocessing
 
@@ -23,7 +23,7 @@ Data Visualization Principles
 
 Interactive Dashboard Design
 
-**🛠 Tools & Technologies**
+**🛠 Tools & Technologies:**
 
 Power BI Desktop
 
@@ -59,13 +59,13 @@ Date Slicer (Order Date)
 
 Region Slicer
 
-**📁 Files Included**
+**📁 Files Included:**
 
 FUTURE_DS_01.pbix – Power BI Dashboard file
 
 superstore.xls – Raw Dataset
 
-**🔗 Related**
+**🔗 Related:**
 
 Future Interns Official Website – https://www.futureinterns.com
 
