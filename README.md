@@ -69,7 +69,7 @@ superstore.xls – Raw Dataset
 
 Future Interns Official Website – https://www.futureinterns.com
 
-Dataset Source – https://www.kaggle.com/datasets/username/superstore-sales-dataset
+Dataset Source – https://www.kaggle.com/datasets/mohamed38/superstoredataset
 
 **📬 Contact - Syeda Amtul**
 
